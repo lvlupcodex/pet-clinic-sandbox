@@ -1,0 +1,16 @@
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/MySqlIntegrationTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/MysqlTestApplication.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/PetClinicIntegrationTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/PostgresIntegrationTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/owner/OwnerControllerTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetControllerTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetTypeFormatterTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetValidatorTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/owner/VisitControllerTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/service/EntityUtils.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/system/CrashControllerIntegrationTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/system/CrashControllerTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetControllerTests.java
+/workspaces/pet-clinic-sandbox/petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetTests.java
