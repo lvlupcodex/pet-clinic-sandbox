@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.samples.petclinic.MySqlIntegrationTests" tests="2" skipped="2" failures="0" errors="0" timestamp="2025-04-10T21:12:08" hostname="codespaces-b96ddd" time="0.006">
+  <properties/>
+  <testcase name="testFindAll()" classname="org.springframework.samples.petclinic.MySqlIntegrationTests" time="0.006">
+    <skipped/>
+  </testcase>
+  <testcase name="testOwnerDetails()" classname="org.springframework.samples.petclinic.MySqlIntegrationTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

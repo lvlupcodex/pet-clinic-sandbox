@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.samples.petclinic.PostgresIntegrationTests" tests="2" skipped="2" failures="0" errors="0" timestamp="2025-04-10T21:12:21" hostname="codespaces-b96ddd" time="0.001">
+  <properties/>
+  <testcase name="testFindAll()" classname="org.springframework.samples.petclinic.PostgresIntegrationTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testOwnerDetails()" classname="org.springframework.samples.petclinic.PostgresIntegrationTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[2025-04-10T21:12:21.523Z  INFO 34430 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [org.springframework.samples.petclinic.PostgresIntegrationTests]: PostgresIntegrationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-04-10T21:12:21.537Z  INFO 34430 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration org.springframework.samples.petclinic.PetClinicApplication for test class org.springframework.samples.petclinic.PostgresIntegrationTests
+2025-04-10T21:12:21.542Z  INFO 34430 --- [    Test worker] org.testcontainers.DockerClientFactory   : Testcontainers version: 1.20.4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
